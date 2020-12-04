@@ -6,6 +6,7 @@
 @import url("../blocks/header/header.css");
 @import url("../blocks/lead/lead.css");
 @import url("../blocks/intro/intro.css");
+@import url("../blocks/photo-grid/photo-grid.css");
 
 /* Элементы */
 @import url("../blocks/header/__lang-switcher/header__lang-switcher.css");
@@ -20,6 +21,7 @@
 @import url("../blocks/intro/__list/intro__list.css");
 @import url("../blocks/intro/__list-item/intro__list-item.css");
 @import url("../blocks/intro/__span-accent/intro__span-accent.css");
+@import url("../blocks/photo-grid/__item/photo-grid__item.css");
 
 /* Модификаторы */
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
