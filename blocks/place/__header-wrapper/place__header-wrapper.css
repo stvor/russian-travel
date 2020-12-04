@@ -4,3 +4,9 @@
   align-items: flex-end;
   gap: 40px;
 }
+
+@media screen and (max-width: 1280px) {
+  .place__header-wrapper {
+    gap: 32px;
+  }
+}

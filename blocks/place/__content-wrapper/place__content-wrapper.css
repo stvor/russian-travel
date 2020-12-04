@@ -2,3 +2,9 @@
   display: flex;
   gap: 40px;
 }
+
+@media screen and (max-width: 1280px) {
+  .place__content-wrapper {
+    gap: 32px;
+  }
+}

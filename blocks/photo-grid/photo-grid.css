@@ -6,3 +6,10 @@
   flex-wrap: wrap;
   gap: 16px;
 }
+
+@media screen and (max-width: 1280px) {
+  .photo-grid {
+    width: 928px;
+    gap: 14px;
+  }
+}
