@@ -1,10 +1,15 @@
+@import url("../vendor/normalize.css");
 @import url("../vendor/fonts.css");
 
 /* Блоки */
-
+@import url("../blocks/page/page.css");
+@import url("../blocks/header/header.css");
 
 /* Элементы */
-
+@import url("../blocks/header/__lang-switcher/header__lang-switcher.css");
+@import url("../blocks/header/__logo/header__logo.css");
+@import url("../blocks/header/__lang-link/header__lang-link.css");
 
 /* Модификаторы */
+@import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
 
