@@ -10,6 +10,7 @@
 @import url("../blocks/places/places.css");
 @import url("../blocks/place/place.css");
 @import url("../blocks/cover/cover.css");
+@import url("../blocks/footer/footer.css");
 
 /* Элементы */
 @import url("../blocks/header/__lang-switcher/header__lang-switcher.css");
@@ -35,6 +36,9 @@
 @import url("../blocks/cover/__title/cover__title.css");
 @import url("../blocks/cover/__subtitle/cover__subtitle.css");
 @import url("../blocks/cover/__link/cover__link.css");
+@import url("../blocks/footer/__links/footer__links.css");
+@import url("../blocks/footer/__link/footer__link.css");
+@import url("../blocks/footer/__copyright/footer__copyright.css");
 
 /* Модификаторы */
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
