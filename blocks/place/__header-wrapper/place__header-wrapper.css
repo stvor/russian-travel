@@ -1,0 +1,6 @@
+.place__header-wrapper {
+  margin-bottom: 48px;
+  display: flex;
+  align-items: flex-end;
+  gap: 40px;
+}

@@ -1,0 +1,4 @@
+.place__content-wrapper {
+  display: flex;
+  gap: 40px;
+}
