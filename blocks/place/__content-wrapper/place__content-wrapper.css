@@ -8,3 +8,9 @@
     gap: 32px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .place__content-wrapper {
+    gap: 28px;
+  }
+}

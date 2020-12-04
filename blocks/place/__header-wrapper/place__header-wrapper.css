@@ -10,3 +10,9 @@
     gap: 32px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .place__header-wrapper {
+    gap: 28px;
+  }
+}

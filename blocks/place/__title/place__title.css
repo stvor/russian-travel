@@ -12,3 +12,11 @@
     width: 440px;
   }
 }
+
+@media screen and (max-width: 1024px) {
+  .place__title {
+    width: 340px;
+    font-size: 42px;
+    line-height: 46px;
+  }
+}

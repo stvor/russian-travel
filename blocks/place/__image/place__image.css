@@ -1,9 +1,17 @@
 .place__image {
   width: 460px;
+  object-fit: contain;
+  object-position: top;
 }
 
 @media screen and (max-width: 1280px) {
   .place__image {
     width: 440px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .place__image {
+    width: 340px;
   }
 }
