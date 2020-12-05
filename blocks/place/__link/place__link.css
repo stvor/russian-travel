@@ -5,3 +5,7 @@
   line-height: 1.22;
   color: #FFFFFF;
 }
+
+.place__link:hover {
+  opacity: 0.8;
+}
