@@ -1,0 +1,9 @@
+.place__title_baikal_oneline {
+  display: none;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__title_baikal_oneline {
+    display: block;
+  }
+}

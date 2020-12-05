@@ -1,0 +1,10 @@
+.place__title_kosa_oneline {
+  display: none;
+}
+
+@media screen and (max-width: 768px) {
+  .place__title_kosa_oneline {
+    display: block;
+  }
+}
+

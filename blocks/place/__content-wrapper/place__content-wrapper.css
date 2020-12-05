@@ -14,3 +14,9 @@
     gap: 28px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .place__content-wrapper {
+    flex-direction: column;
+  }
+}

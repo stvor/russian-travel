@@ -1,0 +1,5 @@
+@media screen and (max-width: 1024px) {
+  .place__title_baikal_multilines {
+    display: none;
+  }
+}

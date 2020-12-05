@@ -18,5 +18,16 @@
   .photo-grid {
     width: 720px;
     gap: 16px;
+    padding-top: 88px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    margin: 0 16px;
+    width: calc(100vw - 32px);
+    gap: 12px;
+    padding-top: 64px;
+    flex-direction: column;
   }
 }

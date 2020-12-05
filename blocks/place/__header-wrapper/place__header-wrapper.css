@@ -16,3 +16,9 @@
     gap: 28px;
   }
 }
+
+@media screen and (max-width: 768px) {
+  .place__header-wrapper {
+    margin-bottom: 32px;
+  }
+}
