@@ -5,7 +5,7 @@
   font-style: normal;
   font-weight: 900;
   font-size: 72px;
-  line-height: 76px;
+  line-height: 1.06;
   text-align: center;
 }
 
@@ -13,6 +13,6 @@
   .cover__title {
     margin-bottom: 16px;
     font-size: 32px;
-    line-height: 35px;
+    line-height: 1.1;
   }
 }

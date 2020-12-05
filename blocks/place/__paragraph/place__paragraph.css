@@ -4,7 +4,7 @@
   font-style: normal;
   font-weight: normal;
   font-size: 18px;
-  line-height: 29px;
+  line-height: 1.63;
 }
 
 .place__paragraph:last-child {
@@ -14,7 +14,7 @@
 @media screen and (max-width: 1024px) {
   .place__paragraph {
     font-size: 16px;
-    line-height: 26px;
+    line-height: 1.625;
     margin-bottom: 25px;
   }
 }
