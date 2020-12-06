@@ -1,4 +1,6 @@
 .cover__link {
+  padding-top: 245px;
+  padding-bottom: 245px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -6,5 +8,32 @@
   color: white;
   text-decoration: none;
   position: relative;
-  height: 100%;
+}
+
+@media screen and (max-width: 1280px) {
+  .cover__link {
+    padding-top: 195px;
+    padding-bottom: 195px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    padding-top: 115px;
+    padding-bottom: 115px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover__link {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .cover__link {
+    padding-top: 33px;
+    padding-bottom: 33px;
+  }
 }

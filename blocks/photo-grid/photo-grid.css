@@ -25,7 +25,7 @@
 @media screen and (max-width: 768px) {
   .photo-grid {
     margin: 0 16px;
-    width: calc(100vw - 32px);
+    width: calc(100% - 32px);
     gap: 12px;
     padding-top: 64px;
     flex-direction: column;
