@@ -8,14 +8,14 @@
   text-align: center;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__subtitle {
     font-size: 14px;
     line-height: 1.14;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 424px) {
   .cover__subtitle {
     padding: 0 16px;
   }

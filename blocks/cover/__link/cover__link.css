@@ -10,28 +10,28 @@
   position: relative;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .cover__link {
     padding-top: 195px;
     padding-bottom: 195px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .cover__link {
     padding-top: 115px;
     padding-bottom: 115px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .cover__link {
     padding-top: 90px;
     padding-bottom: 90px;
   }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 424px) {
   .cover__link {
     padding-top: 33px;
     padding-bottom: 33px;

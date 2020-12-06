@@ -8,13 +8,13 @@
   line-height: 1.625;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .intro__text {
     max-width: 100%;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .intro__text {
     margin-bottom: 33px;
   }

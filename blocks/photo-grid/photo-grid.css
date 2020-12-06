@@ -7,14 +7,14 @@
   gap: 16px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .photo-grid {
     max-width: 928px;
     gap: 14px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
     max-width: 720px;
     gap: 16px;
@@ -22,7 +22,7 @@
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .photo-grid {
     margin: 0 16px;
     width: calc(100% - 32px);

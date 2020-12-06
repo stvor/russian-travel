@@ -3,19 +3,19 @@
   gap: 40px;
 }
 
-@media screen and (max-width: 1280px) {
+@media screen and (max-width: 1279px) {
   .place__content-wrapper {
     gap: 32px;
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .place__content-wrapper {
     gap: 28px;
   }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .place__content-wrapper {
     flex-direction: column;
   }
