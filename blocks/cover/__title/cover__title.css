@@ -16,3 +16,9 @@
     line-height: 1.1;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .cover__title {
+    padding: 0 16px;
+  }
+}
