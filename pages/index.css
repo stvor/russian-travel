@@ -43,8 +43,4 @@
 
 /* Модификаторы */
 @import url("../blocks/header/__lang-link/_active/header__lang-link_active.css");
-@import url("../blocks/place/__title/_kosa/place__title_kosa_oneline.css");
-@import url("../blocks/place/__title/_kosa/place__title_kosa_multilines.css");
-@import url("../blocks/place/__title/_baikal/place__title_baikal_oneline.css");
-@import url("../blocks/place/__title/_baikal/place__title_baikal_multilines.css");
 
